@@ -1,8 +1,4 @@
 [[Kardinaldyd-blogpost]]
-## Hello World
+# Velkommen til Gards blog 
 
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+Dette er en side for ideer og insikt som jeg syns er nyttig og interressant. 

@@ -13,11 +13,7 @@ text text og mere text .
 text text og mere text . 
 ## Måtehold: Den minste bjørnen sin grøt 
 
-<<<<<<< HEAD
 En liten oppdatering 
-=======
-En liten oppdatering
->>>>>>> 824b4b9dc3625c0488aa8bb79bdfd7beab8cd2b1
 
 ## Mot: stå i dt og hopp uti det
 
