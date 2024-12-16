@@ -1,4 +1,5 @@
 # Kardinaldyder 
+May 25, 2024 by Gard Fjerdingstad
 I bok 3, kap. 2 snakker C.S. Lewis om de 4 Kardinaldydene. Disse dydene er leveregler som en hver kristen vil ende opp med å leve etter. Dette er en tekst som skal beskrive mine tanker rundt de 4 kardinaldydene. 
 
 ## Vidom: voksne barn og barnslige voksne
@@ -11,6 +12,8 @@ text text og mere text .
 text text og mere text . 
 text text og mere text . 
 ## Måtehold: Den minste bjørnen sin grøt 
+
+En liten oppdatering 
 
 ## Mot: stå i dt og hopp uti det
 
