@@ -16,4 +16,4 @@ En liten oppdatering
 
 ## Mot: stå i dt og hopp uti det
 
-
+![Image title](https://dummyimage.com/600x400/eee/aaa){ align=left }
