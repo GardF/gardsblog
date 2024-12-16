@@ -9,18 +9,18 @@ theme:
       scheme: default
       primary: red
       accent: indigo
-      #toggle:
-       # icon: material/toggle-switch-off-outline
-        #name: Switch to dark mode
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to dark mode
 
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
       primary: green
       accent: blue
-     # toggle:
-     #   icon: material/toggle-switch
-     #   name: Switch to light mode
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to light mode
 
 # Extensions
 markdown_extensions:
