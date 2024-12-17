@@ -1,6 +1,8 @@
 site_name: Gards Blog
 
 theme:
+   features:
+    - navigation.tabs
     name: 'material'
     palette:
 
