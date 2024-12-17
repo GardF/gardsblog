@@ -4,7 +4,6 @@
 May 25, 2024 by Gard Fjerdingstad
 I bok 3, kap. 2 snakker C.S. Lewis om de 4 Kardinaldydene. Disse dydene er leveregler som en hver kristen vil ende opp med å leve etter. Dette er en tekst som skal beskrive mine tanker rundt de 4 kardinaldydene.
 
-![[Webside forslag.excalidraw]]
 
 ---
 ## Vidom: voksne barn og barnslige voksne
